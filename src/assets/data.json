@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Swiss Alps – The Magical Mountains",
+        "description": "The dramatic peaks of Dammastock and the snow-clad majestic summit of Matterhorn have always amazed and left hikers spellbound with its astonishing beauty. Matterhorn is 10th tallest amongst the several mountains of the world with a distinct feature of a well-defined pyramid shape. It is one of the most active fold mountains of the world and is featured on the world famous Toblerone Chocolate as its logo. The slopes of the Alps are famous for the skiing and snowboarding activities.",
+        "location": "Switzerland",
+        "image": "https://images.unsplash.com/photo-1545858074-a4bae2d8017c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2378&q=80"
+    },
+    {
+        "title": "Mount Logan – The Snowy Paradise",
+        "description": "Mount Logan is the tallest mountain in Canada, second highest summit in North America and has the largest circumference of the base when compared to the several mountain ranges of the world map. It is a part of Kluane National Park and Reserve. Hikers here can have an adventurous experience being surrounded by dense forests, iced rivers, picturesque landscapes, wild animals and several species of birds. Due to the tectonic action in this area, Mount Logan is continuing to grow in height even today.",
+        "location": "Canada",
+        "image": "https://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F2323d8de-300c-11e7-aef5-2d8dbd8d80b5.jpg?crop=5374%2C3583%2C-0%2C-0"
+    },
+    {
+        "title": "Mount Fuji – The Volcanic Beauty",
+        "description": "Mount Fuji is nearly 12,400 ft tall and is Japan’s No.1 tourist attraction. The breathtaking views here never fail to impress anybody who comes here. This is one of the most massive volcanic mountains in the world, which is active even now and majestically sits over a junction of three tectonic plates. The months July and August see the most amount of hikers attempting to climb this volcanic mountain and most of them make it to the summit successfully.",
+        "location": "Japan",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/080103_hakkai_fuji.jpg/1200px-080103_hakkai_fuji.jpg"
+    },
+    {
+        "title": "Mauna Kea – The Gem Of Pacific Ocean",
+        "description": "Mt Everest is known to be the tallest mountain in the world, but if you consider the height of Mauna Kea which is hidden under the Pacific Ocean, then Mauna Kea would be the tallest peak of the world. It is an 8-hour tour to this place with a few stops in between for acclimatization. The top of this volcanic wonder houses the world’s leading astronomical observatories. During the nights the perfectly clear skies offer an amazing stargazing experience.",
+        "location": "United States of America",
+        "image": "https://maptrotting.com/wp-content/uploads/2014/03/Mauna-Kea-Hawaii.jpg"
+    },
+    {
+        "title": "Jotunheimen Mountains – The Photographer’s Paradise",
+        "description": "This is one of the major mountain ranges of the world. One can witness these beautiful Jotunheimen Mountains when on the Sognefjellet National Tourist Route. The best way to witness the beauty of this place is through a drive along Europe’s highest mountain pass. This area offers splendid views of the scenic beauty which are highly worthy of being photographed. During the drive, one can witness the magnificent view comprising of snow-capped mountain peaks, waterfalls with crystal clear water and lush greenery.",
+        "location": "Norway",
+        "image": "https://www.atlasandboots.com/wp-content/uploads/2017/01/Climbing-Galdhøpiggen-in-Jotunheimen-National-Park-Norway-10.jpg"
+    }
+]

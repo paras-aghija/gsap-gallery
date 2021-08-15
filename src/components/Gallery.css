@@ -1,0 +1,116 @@
+.gallery{
+    flex-grow: 1;
+    position: relative;
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+    height: 100%;
+    width: 100%;
+}
+
+.content{
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+
+.content ul{
+    list-style: none;
+    overflow: hidden;
+    width: calc((100vw - 60px) * 2 / 5);
+    height: 100%;
+    position: relative;
+}
+
+.content ul li{
+    /* width: calc((100vw-60px) *2/5); */
+    height: 100%;
+    padding: 28px;
+    opacity: 0;
+    position: absolute;
+}
+
+.content ul li h1{
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.content ul li p{
+    font-size: 0.875rem;
+    letter-spacing: 0.88px;
+    line-height: 1.25rem;
+    margin-bottom: 1rem;
+}
+
+.content ul li span{
+    font-size: 0.75rem;
+    color: rgb(120,122,124);
+}
+
+.content ul li:nth-child(1){
+    opacity: 1;
+}
+
+.controls{
+    position: absolute;
+    left: 24px;
+    bottom: 24px;
+    display: flex;
+}
+
+.controls button{
+    width: 28px;
+    height: 28px;
+    margin: 0 4px;
+    border-radius: 100px;
+    transition: 0.3s ease-in-out;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    outline: none;
+    background: none;
+}
+
+.controls button:hover{
+    background: rgb(244,244,244);
+}
+
+.controls button:disabled{
+    cursor: auto;
+    opacity: 0.5;
+}
+
+.controls button:disabled:hover{
+    background: none;
+}
+
+.controls button img{
+    width: 24px;
+    height: 24px;
+    padding: 6px;
+}
+
+.image{
+    height:100%;
+    width: 100%;   
+}
+
+.image ul{
+    display: flex;
+    list-style: none;
+    overflow: hidden;
+    height: 100%;
+    width: calc((100vw - 60px) * 3 / 5);
+}
+
+.image ul li{
+    width: calc((100vw - 60px) * 3  / 5);
+    height: 100%;
+}
+
+.image img{
+    width: calc((100vw - 60px) * 3 / 5);
+    height: 100%;
+    object-fit: cover;
+}

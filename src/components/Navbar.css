@@ -1,0 +1,39 @@
+.navbar{
+    display: grid;
+    width: 60px;
+    grid-template-rows: repeat(3, 1fr);
+    padding: 20px 12px;
+    justify-items: center;
+}
+
+.menu{
+    align-self: start;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+
+.navbar h1{
+    align-self: center;
+    font-size: 1.2rem;
+    font-weight: 600;
+    letter-spacing:2px;
+    text-transform: uppercase;
+
+    transform: rotate(180deg);
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+}
+
+.socials{
+    align-self: end;
+    display: flex;
+    flex-direction: column;
+}
+
+.socials img{
+    width: 20px;
+    height: 20px;
+    margin-top: 12px;
+    cursor: pointer;    
+}
